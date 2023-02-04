@@ -33,5 +33,14 @@
 ***Build the angular application in production mode***
 
 ```bash
-> ng build --prod
+> ng build --configuration production
 ```
+
+## Push the code to GitHub and configure the repository
+
+```bash
+> git add . 
+> git commit -m "Init app"
+> git push 
+```
+
