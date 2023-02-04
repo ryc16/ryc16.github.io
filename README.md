@@ -44,3 +44,9 @@
 > git push 
 ```
 
+### Configure the repository to use the “docs” folder to build the page
+
+Navigate to the settings for your repository or enter the url https://github.com/username/username.github.io/settings
+
+- Select "Pages" from left panel
+![Location of pages](Capture.png)
